@@ -1,0 +1,44 @@
+input{
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(200, 200, 200);
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-size: 16px;
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
+
+
+
+
+.first{
+ width: 148px;
+  
+}
+.last{
+  width: 148px;
+
+}
+.mail{
+  display: block;
+  margin-bottom: 10px;
+ 
+  width:340px;
+
+}
+.sign{
+  border: none;
+  background-color: rgb(85, 85, 244);
+  color: white;
+  width: 340px;
+  padding-bottom: 14px;
+  padding-top: 14px;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+
+}

@@ -1,0 +1,131 @@
+p{
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.card{
+  width: 200px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.5);
+  display: inline-block;
+}
+.cats{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 12px;
+}
+.name{
+  font-weight: bold;
+  font-size: 22px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  padding-top: 0px;
+}
+.sub{
+color: grey;
+margin-left: 5px;
+}
+.add{
+  background-color: rgb(29, 155, 240);
+  border: none;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  color: white;
+  border-radius: 6px;
+  font-weight: bold;
+  margin-top: 12px;
+  cursor: pointer;
+  margin-left: 5px;
+  margin-bottom: 8px;
+}
+
+
+
+p{
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.card2{
+  width: 200px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.5);
+  display: inline-block;
+}
+.cats2{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 12px;
+}
+.name2{
+  font-weight: bold;
+  font-size: 22px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  padding-top: 0px;
+}
+.sub2{
+color: grey;
+margin-left: 5px;
+}
+.add2{
+  background-color: rgb(29, 155, 240);
+  border: none;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  color: white;
+  border-radius: 6px;
+  font-weight: bold;
+  margin-top: 12px;
+  cursor: pointer;
+  margin-left: 5px;
+  margin-bottom: 8px;
+}
+
+
+p{
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.card3{
+  width: 200px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.5);
+  display: inline-block;
+}
+.cats3{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 12px;
+}
+.name3{
+  font-weight: bold;
+  font-size: 22px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  padding-top: 0px;
+}
+.sub3{
+color: grey;
+margin-left: 5px;
+}
+.add3{
+  background-color: rgb(29, 155, 240);
+  border: none;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  color: white;
+  border-radius: 6px;
+  font-weight: bold;
+  margin-top: 12px;
+  cursor: pointer;
+  margin-left: 5px;
+  margin-bottom: 8px;
+}

@@ -1,0 +1,40 @@
+body{
+  height: 3000px;
+}
+.bottom-right{
+  background-color: gray;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 320px;
+  height: 180px;
+}
+
+
+.x{
+  background-color: black;
+  color: white;
+  position: absolute;
+  left: -10px;
+  top: -18px;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 30px;
+
+}
+
+.video-time{
+  color: white;
+  background-color: black;
+  bottom: 10px;
+  right: 10px;
+  font-family: Arial;
+  font-size: 18px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  position: absolute;
+}
